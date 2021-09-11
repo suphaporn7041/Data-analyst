@@ -1,3 +1,3 @@
-# Data analyst
+# Data analyst portfolio
 Hi, my name is Supaporn J. This is a portfolio for data analyst fleid. 
-I was an engineer before for Siam Kubota corp. Let's get to know me through my project!!
+I was an engineer for Siam Kubota corp. before. Let's get to know me through my project!!
